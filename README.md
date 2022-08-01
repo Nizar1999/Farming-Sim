@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nizar1999/Yet-Another-Tetris-Clone/blob/main/screenshots/Banner.png" width = 55%; height=55% />
+  <img src="https://github.com/Nizar1999/Farming-Sim/blob/main/screenshots/Banner.png" width = 55%; height=55% />
 </p>
 
 ![CSharp](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp&logoColor=red) 
