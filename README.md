@@ -8,7 +8,7 @@
 
  Farming sim implemented in Unity.
  
- [Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack)
+ Using [Sprout Lands Art Pack](https://cupnooble.itch.io/sprout-lands-asset-pack)
  
  ## Prep the Ground With Your Trusty Hoe
  ![screen-gif](./screenshots/Hoe.gif)
