@@ -2,10 +2,9 @@
   <img src="https://github.com/Nizar1999/Farming-Sim/blob/main/screenshots/Banner.png" width = 55%; height=55% />
 </p>
 
-![CSharp](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=csharp&logoColor=red) 
-![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity&logoColor=red) 
-![Aseprite](https://img.shields.io/badge/-Aseprite-black?style=for-the-badge&logo=aseprite&logoColor=red) 
-
+![CSharp](https://img.shields.io/badge/-C%23-pink?style=for-the-badge&logo=csharp&logoColor=green) 
+![Unity](https://img.shields.io/badge/-Unity-pink?style=for-the-badge&logo=unity&logoColor=green) 
+![Aseprite](https://img.shields.io/badge/-Aseprite-pink?style=for-the-badge&logo=aseprite&logoColor=green) 
 
  Farming sim implemented in Unity.
  
