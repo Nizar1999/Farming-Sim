@@ -10,14 +10,14 @@
  
  Art made in Aseprite.
  
- # Prep the ground with your trusty hoe
+ ## Prep the ground with your trusty hoe
  ![screen-gif](./screenshots/Hoe.gif)
  
- # Plant various plants like Tomato and Wheat then watch them grow through their different phases
+ ## Plant various plants like Tomato and Wheat then watch them grow through their different phases
  ![screen-gif](./screenshots/Plants.gif)
  
- # Use the watering tool to make the plants grow faster
+ ## Use the watering tool to make the plants grow faster
  ![screen-gif](./screenshots/Water.gif)
  
- # Harvest the fruits of your labor
+ ## Harvest the fruits of your labor
  ![screen-gif](./screenshots/Harvest.gif)
