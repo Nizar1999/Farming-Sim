@@ -17,7 +17,7 @@
  ![screen-gif](./screenshots/Plants.gif)
  
  # Use the watering tool to make the plants grow faster
- ![screen-gif](./screenshots/Watering.gif)
+ ![screen-gif](./screenshots/Water.gif)
  
  # Harvest the fruits of your labor
  ![screen-gif](./screenshots/Harvest.gif)
